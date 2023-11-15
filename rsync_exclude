@@ -1,0 +1,12 @@
+**/target
+**.lock
+**.swp
+**.swo
+fonts
+out/stay
+test
+.git
+assets
+README.md
+rsync_exclude
+.gitignore
