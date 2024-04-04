@@ -140,7 +140,7 @@
 #slide(title: "Quiz 1: Typen", theme-variant: "action")[
   #let rr = raw.with(lang: "rust")
   Maximaler Wert von #rr("i32")? \
-  #uncover("2-")[theref #rr("4_294_967_295")]
+  #uncover("2-")[theref #rr("2_147_483_647")]
   \ \
 
   Kompiliert das?
